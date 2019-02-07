@@ -10,11 +10,6 @@ img {
   margin: auto;
 }
 
-.line {
-	display: inline-block;
-	width: 50%;
-}
-
 .left {
 	float: left;
 	width: 50%;
